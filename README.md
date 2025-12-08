@@ -11,3 +11,5 @@ band (10.7–12.7GHz), and advanced radar and satellite uplinks (12–14GHz). Th
 results demonstrated astrongcorrelationwiththesimulatedoutcomes, confirmingitspracticalapplicabilityandeffectivenessinmultiband
 communicationsystems. Theproposedfractalantennastandsoutduetoitscompactsize, multibandcapability, andexcellentperformance,
 making it well suited for modern wireless applications.
+
+download the 'project' file then do analyze all, you will be able to see all the needed results
