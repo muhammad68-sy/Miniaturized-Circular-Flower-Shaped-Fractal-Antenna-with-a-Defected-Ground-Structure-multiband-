@@ -1,0 +1,2 @@
+# Miniaturized-Circular-Flower-Shaped-Fractal-Antenna-with-a-Defected-Ground-Structure-multiband-
+A compact fractal antenna (15 × 11 × 1.6 mm³) with a flower-shaped patch and spiral DGS is proposed, operating at 6 frequencies from 1.79 to 14.6 GHz. It supports GSM/UMTS, 4G/5G, radar, and satellite communication. Measured results closely match simulations, confirming its effective multiband performance &amp; suitability for modern wireless systems.
